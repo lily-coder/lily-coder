@@ -1,13 +1,12 @@
-###  Hi there :wave:, I'm Lilian
+#  Hi there :wave:, I'm Lilian
 
 ### Glad to see you there 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-${lily-coder}.${63964646}![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-A full stack software developer student at Microverse :woman_technologist:
-:woman_student: Also an undergraduate in Kenyatta University pursuing Computer Science. 
-I love programming, doing research and travelling.
-I love to make things that impact a change especially to the world
+> A full stack software developer student at Microverse :woman_technologist:
+> :woman_student: Also an undergraduate in Kenyatta University pursuing Computer Science. 
+> I love programming, doing research and travelling.
+> I love to make things that impact a change especially to the world
 Open to new opportunities :eyes:
 
 #### Talking about personal Stuff:
