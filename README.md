@@ -3,10 +3,10 @@
 ### Glad to see you there 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-> A full stack software developer student at Microverse :woman_technologist:
-> :woman_student: Also an undergraduate in Kenyatta University pursuing Computer Science. 
-> I love programming, doing research and travelling.
-> I love to make things that impact a change especially to the world
+* A full stack software developer student at Microverse :woman_technologist:
+* :woman_student: Also an undergraduate in Kenyatta University pursuing Computer Science. 
+* I love programming, doing research and travelling.
+* I love to make things that impact a change especially to the world
 Open to new opportunities :eyes:
 
 #### Talking about personal Stuff:
@@ -16,9 +16,6 @@ Open to new opportunities :eyes:
 - 💬 Ask me about anything, Iam happy to help
 - 📫 How to reach me: lilyondie@gmail.com
 - 😄 Pronouns: She/Her
-
-[![My Github Stats]
-<img height="180em"src="https://github-readme-stats.vercel.app/api?username=lily-coder&show icons=true&hide border=true&&count private=true&include all commits=true" />
 
 <a target="_blank"
 href="https://www.linkedin.com/in/lilian-moraa-99950b1b8"><img
