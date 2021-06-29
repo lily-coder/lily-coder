@@ -12,7 +12,7 @@ Open to new opportunities :eyes:
 #### Talking about personal Stuff:
 
 - 🔭 I’m currently working on something great;
-- 🌱 I’m currently learning Responsive design with Bootstrap on ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 💬 Ask me about anything, Iam happy to help
 - 📫 How to reach me: lilyondie@gmail.com
 - 😄 Pronouns: She/Her
