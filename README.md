@@ -1,4 +1,4 @@
-#  Hi there :wave:, I'm Lilian :)
+#  Hi there :wave:, I'm Lilian.
 
 ### Glad to see you there 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
