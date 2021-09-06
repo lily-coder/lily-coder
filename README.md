@@ -11,11 +11,11 @@ Open to new opportunities :eyes:
 
 #### Talking about personal Stuff:
 
-- 🔭 I’m currently working on something great;
-- 🌱 I’m currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
+- 🔭 I am currently working on something great;
+- 🌱 I am currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
 - 💬 Ask me about anything, Iam happy to help
 - 📫 How to reach me: lilyondie@gmail.com 
-- 😄 Pronouns: She/Her.
+- 😄 Pronouns: She/Her
 
 <a target="_blank"
 href="https://www.linkedin.com/in/lilian-moraa-99950b1b8"><img
