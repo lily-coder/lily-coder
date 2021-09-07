@@ -16,6 +16,7 @@ Open to new opportunities :eyes:
 - 💬 Ask me about anything, Iam happy to help
 - 📫 How to reach me: lilyondie@gmail.com 
 - 😄 Pronouns: She/Her
+- [Portfolio](https://lily-coder.github.io/myportfolio/)
 
 <a target="_blank"
 href="https://www.linkedin.com/in/lilian-moraa-99950b1b8"><img
