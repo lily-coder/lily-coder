@@ -7,7 +7,7 @@
 * :woman_student: Also an undergraduate in Kenyatta University pursuing Computer Science. 
 * I love programming, doing research and travelling.
 * I love to make things that impact a change especially to the world
-Open to new opportunities :eyes:
+* Open to new opportunities :eyes:
 
 #### Talking about personal Stuff:
 
