@@ -13,7 +13,7 @@
 
 - 🔭 I am currently working on something great;
 - 🌱 I am currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
-- 💬 Ask me about anything, Iam happy to help.
+- 💬 Ask me about anything, Iam happy to help
 - 📫 How to reach me: lilyondie@gmail.com
 - 😄 Pronouns: She/Her
 - [Portfolio](https://lily-coder.github.io/myportfolio/)
