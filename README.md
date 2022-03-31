@@ -1,7 +1,7 @@
 #  Hi there :wave:, I'm Lilian Moraa.
 
 
-### Glad to see you there 
+### Glad to see you there
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 * A full stack software developer student at Microverse :woman_technologist:
