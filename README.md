@@ -1,4 +1,4 @@
-#  Hi there :wave:, I'm Lilian Moraa
+#  Hi there :wave:, I'm Lilian Moraa.
 
 
 ### Glad to see you there
