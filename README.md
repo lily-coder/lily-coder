@@ -4,17 +4,15 @@
 ### Glad to see you there
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-* A full stack software developer student at Microverse :woman_technologist:
-* :woman_student: Also an undergraduate in Kenyatta University pursuing Computer Science. 
-* I love programming, doing research and travelling.
-* I love to make things that impact a change especially to the world
+* A full stack software developer :woman_technologist: 
+* I love programming, doing research, and traveling.
+* I love to make things that impact a change in the world
 * Open to new opportunities :eyes:
 
 #### Talking about personal Stuff:
 
 - 🔭 I am currently working on something great
-- 🌱 I am currently learning at ![](https://img.shields.io/badge/Microverse-blueviolet)
-- 💬 Ask me about anything, Iam happy to help
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: lilyondie@gmail.com
 - 😄 Pronouns: She/Her
 - [Portfolio](https://lily-coder.github.io/myportfolio/)
